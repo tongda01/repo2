@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3203f8d9-20b9-477e-b460-40ea0fbebe1a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YpPs871OKWsYgBAQEOgsScl2mf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563957972782" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java22_IO-字节流，高效流" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DiGuiDemo">
+    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo09_介绍工具类.ArraysDemo" />
+      <module name="java21_IO-File，递归" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo09_介绍工具类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiGuiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo05_递归的介绍.DiGuiDemo" />
+      <module name="java21_IO-File，递归" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo05_递归的介绍.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo03_File类的删除和创建方法.FileDemo" />
+      <module name="java21_IO-File，递归" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo03_File类的删除和创建方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo01_File类.FileDemo0" />
+      <module name="java21_IO-File，递归" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo01_File类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapMapDemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo10_Map集合的嵌套.MapMapDemp" />
+      <module name="java21_IO-File，递归" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo10_Map集合的嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiGuiDemo" />
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.FileDemo0" />
+        <item itemvalue="Application.MapMapDemp" />
+        <item itemvalue="Application.ArraysDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3203f8d9-20b9-477e-b460-40ea0fbebe1a" name="Default Changelist" comment="" />
+      <created>1563841742104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563841742104</updated>
+      <workItem from="1583636768358" duration="1346000" />
+      <workItem from="1583745944730" duration="39000" />
+      <workItem from="1583923321952" duration="26000" />
+      <workItem from="1583923471970" duration="25000" />
+      <workItem from="1583923523125" duration="26000" />
+      <workItem from="1583924146183" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
